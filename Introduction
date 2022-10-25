@@ -1,0 +1,22 @@
+Machine learning 
+
+Day 1 
+
+“the field of study that gives computers the ability to learn without being explicitly programmed” 
+                                                                                                                      - arthur samuel(1959)
+
+Supervised learning : Learns from being given the “RIght answers “ 
+
+Regression : predict a number from a infinitely many possible outcomes 
+                     Mapping from X to Y ( X is input , Y is output ) 
+Classification : predicting the categories/classes from small number of possible outcomes 
+( two or more inputs can also be used for more probable prediction) 
+
+Unsupervised Learning : Find something interesting in unlabeled data ( to find structures ) 
+
+Clustering : example : google news
+Group similar data points together 
+
+Anomaly detection : Find unusual data points 
+ 
+Dimensional reduction : Compressing data without much loss of numbers.
